@@ -25,6 +25,11 @@ To democratize financial lending and borrowing by providing a decentralized, tru
 - **Dispute Resolution**: Integrate DAO-based dispute resolution mechanisms for failed repayments.
 - **Front-End DApp**: Develop a user-friendly UI for seamless interaction with the contract.
 
+## 🚀 Powered by *Ethereum Smart Contracts* | Built with ❤ in Solidity
+
+## Contract Details: 0x051A691Ddc160F1AcFe7DD65E24A803C4d0F621D
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/b5975367-e107-4a2e-aa0e-421d7146cc5d" />
+
 ---
 
 ### Made with 💡 by Sachi Khushalani
